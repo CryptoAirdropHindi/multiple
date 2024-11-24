@@ -6,7 +6,7 @@ RED='\033[0;31m'
 YELLOW='\033[0;33m'
 NC='\033[0m'
 
-curl -s bash <(curl -s https://raw.githubusercontent.com/CryptoAirdropHindi/Crypto-Airdrop-Hindi-Guides/refs/heads/main/logo.sh) | bash
+curl -s https://raw.githubusercontent.com/CryptoAirdropHindi/Crypto-Airdrop-Hindi-Guides/main/logo.sh | bash
 echo "Starting Auto Install Nodes Multiple Network"
 sleep 5
 
